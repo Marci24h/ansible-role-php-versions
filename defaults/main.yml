@@ -4,3 +4,6 @@ php_version: '8.3'
 
 # For Debian OSes only.
 php_versions_install_recommends: false
+
+# No (or not) purge other php versions
+php_purge_other_version: false
